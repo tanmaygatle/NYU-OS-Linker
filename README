@@ -1,0 +1,4 @@
+tvg238 - Linker
+
+Simply run command "make" to create executable.
+Run "make clean" to delete executable.
